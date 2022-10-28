@@ -6,7 +6,7 @@
 }
 body {
     position: relative;
-    background: #423117 url('../imagens/fundo-madeira.jpg') center center no-repeat fixed;
+    background: transparent url('../imagens/fundo-madeira.jpg') center center no-repeat fixed;
     background-size: cover;
     padding: 10px 0;
 }
