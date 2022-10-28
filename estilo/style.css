@@ -40,7 +40,7 @@ a#youtube {
     background-size: 100% 100%;
 }
 a#github {
-    background: transparent url('../imagens/logo-youtube.jpg') center center no-repeat;
+    background: transparent url('../imagens/logo-github.jpg') center center no-repeat;
     background-size: 100% 100%;
 }
 a#instagram {
@@ -70,5 +70,4 @@ iframe#tela {
     transform: translate(-50%, -50%);
     width: 270px;
     height: 475px;
-    background-color: rgba(127, 255, 212, 0.507);
 }
