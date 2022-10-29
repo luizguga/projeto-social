@@ -25,7 +25,7 @@ a {
     box-shadow: 2px 2px 1px 1px transparent;
     color: white;
     background-color: black;
-    transition: border .6s;
+    transition: border .3s;
 }
 a:hover {
     border: 1px solid white;
